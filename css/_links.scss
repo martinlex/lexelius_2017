@@ -1,0 +1,11 @@
+a {
+  background-color: $color-lighter-grey;
+  color: $color-blue;
+  font-weight: bold;
+  padding: 4px 6px;
+  white-space: nowrap;
+
+  &:visited {
+    color: $color-purple;
+  }
+}

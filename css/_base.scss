@@ -1,0 +1,9 @@
+body {
+  @media (min-width: 40rem) {
+    align-items: center;
+    background-image: linear-gradient(135deg, red, magenta); /* Fallback */
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+  }
+}
